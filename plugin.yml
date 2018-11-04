@@ -1,0 +1,8 @@
+#name, main, version and api are required
+name: MastoCraft
+main: MastoCraft\Main
+version: 1.0.0
+api: 4.0.0
+load: POSTWORLD
+author: RASPBERRY Studio
+description: Mastodon client for PMMP
